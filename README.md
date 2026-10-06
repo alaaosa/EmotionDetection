@@ -1,2 +1,3 @@
-# EmotionDetection
-IBM graduation project for emotion detection using Watson NLP and Flask.
+# Final Project - Emotion Detection
+
+IBM Final Project for emotion detection using Watson NLP and Flask.
